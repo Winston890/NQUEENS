@@ -22,7 +22,7 @@ def show_board(board):
             else:
                 s += "?"
         print(s)
-TEST = 99
+
 def read_board(string_list):
     rows = len(string_list)
     cols = len(string_list[0])
