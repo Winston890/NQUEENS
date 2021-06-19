@@ -1,4 +1,4 @@
-#Credits to Prof Luca for show board and read board
+#Credits to Prof Luca de Alfaro for show board and read board
 import numpy as np
 
 QUEEN = 1
