@@ -1,2 +1,3 @@
-# CSE30
-Assignments done in CSE30
+## nQueens
+
+My program will calculate a solution (or definite lack of) given a board. 
