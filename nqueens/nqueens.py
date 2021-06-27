@@ -1,6 +1,9 @@
 #Credits to Prof Luca de Alfaro for show board and read board
 import numpy as np
 
+#Empty is an empty spot
+#Forbidden is a spot a queen cannot travel through or be placed at
+#Wall can be considered the same as a Forbidden spot.
 QUEEN = 1
 EMPTY = 0
 FORBIDDEN = 2
