@@ -1,2 +1,2 @@
-# CSE30
-Assignments done in CSE30
+# NQUEENS
+Demonstration of backtracking to solve an NP complete problem. Done in Python
